@@ -6,7 +6,7 @@ Hi, I'm Pablo, a Front End Developer 🚀 from Spain, currently, I'm working on 
 
 - 🔭 I’m currently working on [BBVA Empresas Project](bbva.es)
 
-- 🌱 I’m currently learning **Flutter** & **Web Performance**
+- 🌱 I’m currently learning **VUE3** & **Web Performance**
 
 - 💬 Ask me about **Ask me about anything, I am happy to help;**
 
